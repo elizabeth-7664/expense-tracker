@@ -64,7 +64,7 @@ npm run dev
 
 🌍 Live Demo
 
-Live URL: https://my-live-site-url.netlify.app
+Live URL: https://lively-puffpuff-7349f4.netlify.app/
 📁 Project Structure
 
 expense-tracker/
